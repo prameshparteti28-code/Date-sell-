@@ -1,0 +1,6 @@
+{
+  "name": "DataPay - Data Selling & Earning Android App",
+  "description": "Share unused mobile internet data, earn real cash, withdraw via UPI & Bank transfer with instant APK download and Admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
